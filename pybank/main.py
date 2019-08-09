@@ -8,8 +8,9 @@ from decimal import Decimal
 import sys
 (INT_MAX, INT_MIN) = (sys.maxsize, -sys.maxsize -1)
 
-# changed this bc of the situation of the Resources folder in this case.  
+# changed this bc of the situation of the Resources folder in this case.  Add the second line if your structure demands it.   
 csvpath = os.path.join('Resources', 'budget_data.csv')
+# csvpath = os.path.join('../','Resources', 'budget_data.csv')
 
 #open and read our csv file 
 with open(csvpath, 'r') as csvfile:

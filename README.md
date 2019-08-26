@@ -3,9 +3,7 @@
 ![logo](https://github.com/AlliVaughn/python-challenge/raw/master/python.png)
 =================================
 
-## Alli Vaughn Python Challenge
-
-** The two assignments are as follows:**
+## Python Challenge
 
 ## PyBank
 
